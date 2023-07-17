@@ -10,6 +10,7 @@ app-editors/vim
 app-misc/neofetch
 app-misc/pax-utils
 app-misc/ranger
+app-portage/eix
 app-portage/gentoolkit
 app-shells/bash
 app-vim/colorschemes
@@ -23,6 +24,7 @@ dev-libs/libxslt
 dev-perl/Locale-gettext
 dev-util/glib-utils
 dev-vcs/git
+gnome-base/gnome-keyring
 gnome-extra/nm-applet
 media-fonts/noto-emoji
 media-gfx/feh
@@ -56,6 +58,7 @@ x11-drivers/xf86-video-intel
 x11-misc/dmenu
 x11-misc/i3lock
 x11-misc/i3status
+x11-misc/picom
 x11-misc/redshift
 x11-misc/rofi
 x11-terms/kitty
